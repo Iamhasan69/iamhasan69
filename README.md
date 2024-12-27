@@ -1,5 +1,5 @@
 # 👋,About Me:
-i am Hasan Ahmed Indian webdev
+I am Hasan Ahmed Indian webdev
 
 
 ## 🌐 Socials:
